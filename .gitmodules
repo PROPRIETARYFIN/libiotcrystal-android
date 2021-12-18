@@ -1,0 +1,3 @@
+[submodule "libiotcrystalcrossplatform"]
+	path = libiotcrystalcrossplatform
+	url = git@github.com:ProprietaryFinNonAIAndAICoreEtCEtAl/libiotcrystalcrossplatform.git
